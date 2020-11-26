@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="Plus">+</string>
+    <string name="Multi">*</string>
+    <string name="Minus">-</string>
+    <string name="Del">/</string>
+
 </resources>
